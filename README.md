@@ -1,6 +1,7 @@
 
 ![](Art/Sweet-theme.png)
 
+##I haved personalized this theme, feel free to use it.Enjot!
 
 #### Installation
 
